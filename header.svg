@@ -94,24 +94,20 @@ d: path("M 0,500 C 0,500 0,375 0,375 C 45.29142120765833,354.62886597938143 90.5
             stroke: black;
             stroke-width: 1.5;
         }
-        .text-header {
-            font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
-            font-size: 20px;
-            font-weight: 600;
-        }
         .name {
             font-size: 24px;
             font-weight: 600;
+            fill: #ED4C75;
             font-family: "Courier New"
-        {     
+        }     
     </style>
 
-    <text class="name" x="45%" y="92%">influous</text>
-    <text class="name" x="51%" y="92.2%">
+    <text class="name" x="43%" y="92%">influous</text>
+    <text class="name" x="51%" y="92%">
         |
-        <animate attributeType="XML" attributeName="fill" values="#fff;#000;#fff" dur="2s" repeatCount="indefinite" />
+        <animate attributeType="XML" attributeName="fill" values="#fff;#ED4C75;#fff" dur="2s" repeatCount="indefinite" />
     </text>
 
-    <line class="separator" x1="0" x2="100%" y1="95%" y2="95%" />
+    <line class="separator" x1="0" x2="100%" y1="97%" y2="97%" />
 
 </svg>
