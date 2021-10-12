@@ -7,7 +7,7 @@
 ### Heya! I'm Toby. 👋
 
 - 👾 Graduate IT student, full stack dev, aviation lover, musician
-- 📓 Currently researching image recognition, data privacy, and behavioral economics
+- 📓 Currently researching computer vision, data privacy, and behavioral economics
 - ⛏ Working on a web dev corporate project
 - 🌱 Looking to help out at [#hacktoberfest](https://github.com/topics/hacktoberfest)
 
