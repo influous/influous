@@ -1,16 +1,22 @@
-### Hi there 👋
+<img src="https://github.com/influous/influous/blob/main/header.svg" />
 
-<!--
-**influous/influous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="285" src="https://github.com/influous/influous/blob/main/devcard.svg">
 
-Here are some ideas to get you started:
+[![Mail](https://img.shields.io/badge/Mail-black?style=flat&logo=maildotru&labelColor=black)](mailto:influous@mailbox.org) [![Website](https://img.shields.io/badge/Website-black?style=flat&logo=metrodeparis&labelColor=black)](https://github.com/influous) [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&labelColor=black)](https://linkedin.com/in/tobias-weber-1002) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Heya! I'm Toby. 👋
+
+- 👾 Graduate IT student, full stack dev, aviation lover, musician
+- 📓 Currently researching image recognition, data privacy, and behavioral economics
+- ⛏ Working on a web dev corporate project
+- 🌱 Looking to help out at [#hacktoberfest](https://github.com/topics/hacktoberfest)
+
+#### Using:
+![Python](https://img.shields.io/badge/Python-434CB9?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-6541A3?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-86368E?style=for-the-badge&logo=react&logoColor=61DAFB) ![Solidity](https://img.shields.io/badge/Solidity-A82B78?style=for-the-badge&logo=solidity&logoColor=white) ![SciKit Learn](https://img.shields.io/badge/scikit_learn-C91F62?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+#### Looking Into:
+![Tensorflow](https://img.shields.io/badge/TensorFlow-434CB9?style=for-the-badge&logo=tensorflow&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-6541A3?style=for-the-badge&logo=typescript&logoColor=white) ![ThreeJS](https://img.shields.io/badge/ThreeJs-86368E?style=for-the-badge&logo=three.js&logoColor=white)
+
+<details>
+  <summary>Stats</summary>
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=influous&theme=radical&show_icons=true">
