@@ -102,12 +102,12 @@ d: path("M 0,500 C 0,500 0,375 0,375 C 45.29142120765833,354.62886597938143 90.5
         }     
     </style>
 
-    <text class="name" x="43%" y="92%">influous</text>
-    <text class="name" x="51%" y="92%">
+    <text class="name" x="43%" y="93%">hello world.</text>
+    <text class="name" x="55%" y="93%">
         |
         <animate attributeType="XML" attributeName="fill" values="#fff;#ED4C75;#fff" dur="2s" repeatCount="indefinite" />
     </text>
 
-    <line class="separator" x1="0" x2="100%" y1="97%" y2="97%" />
+    <line class="separator" x1="0" x2="100%" y1="102%" y2="102%" />
 
 </svg>
