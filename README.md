@@ -2,7 +2,10 @@
 
 <img align="right" width="285" src="https://github.com/influous/influous/blob/main/devcard.svg">
 
-[![Mail](https://img.shields.io/badge/Mail-black?style=flat&logo=maildotru&labelColor=black)](mailto:influous@mailbox.org) [![Website](https://img.shields.io/badge/Website-black?style=flat&logo=metrodeparis&labelColor=black)](https://github.com/influous) [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&labelColor=black)](https://linkedin.com/in/tobias-weber-1002) 
+<a href="mailto:influous@mailbox.org"><img src="https://img.shields.io/badge/Mail-black?style=flat&logo=maildotru&labelColor=black" align="left" /></a>
+<a href="https://github.com/influous"><img src="https://img.shields.io/badge/Website-black?style=flat&logo=metrodeparis&labelColor=black" align="left" /></a>
+<a href="https://linkedin.com/in/tobias-weber-1002"><img src="https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&labelColor=black" align="left" /></a>
+<br />
 
 ### Heya! I'm Toby. 👋
 
