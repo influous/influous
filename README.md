@@ -21,6 +21,6 @@
 <details>
   <summary>Stats</summary>
   <br />
-    <img align="right" width="285" src="https://github.com/influous/influous/blob/main/devcard.svg" alt="influous' DevCard" />
-    <img width="460"src="https://github-readme-stats.vercel.app/api/wakatime?username=influous&theme=radical&text_color=fff&custom_title=influous' WakaTime activity" alt="influous' WakaTime activity" />
+    <img align="right" width="325" src="https://github.com/influous/influous/blob/main/devcard.svg" alt="influous' DevCard" />
+    <img align="center" width="460"src="https://github-readme-stats.vercel.app/api/wakatime?username=influous&theme=radical&text_color=fff" alt="influous' WakaTime activity" />
   <img align="center" width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=influous&theme=radical&show_icons=true&text_color=fff&custom_title=influous' GitHub stats" alt="influous' GitHub stats" />
