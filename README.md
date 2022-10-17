@@ -12,11 +12,11 @@
 
 #### Tinkering With:
 
-![Python](https://img.shields.io/badge/Python-434cb9?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-5f43a7?style=for-the-badge&logo=javascript&logoColor=white) ![Bash](https://img.shields.io/badge/bash-783a96?style=for-the-badge&logo=gnubash&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-86368d?style=for-the-badge&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/helm-9e2e7e?style=for-the-badge&logo=helm&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-ab2975?style=for-the-badge&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-b8256d?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-C91F62?style=for-the-badge&logo=ansible&logoColor=white)
+![Python](https://img.shields.io/badge/Python-434cb9?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-5f43a7?style=for-the-badge&logo=javascript&logoColor=white) ![Bash](https://img.shields.io/badge/bash-783a96?style=for-the-badge&logo=gnubash&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-86368d?style=for-the-badge&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/helm-9e2e7e?style=for-the-badge&logo=helm&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-ab2975?style=for-the-badge&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-b8256d?style=for-the-badge&logo=terraform&logoColor=white)
 
 #### Looking Into:
 
-![Tensorflow](https://img.shields.io/badge/TensorFlow-434CB9?style=for-the-badge&logo=tensorflow&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-6541A3?style=for-the-badge&logo=typescript&logoColor=white) ![ThreeJS](https://img.shields.io/badge/ThreeJs-86368E?style=for-the-badge&logo=three.js&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-C91F62?style=for-the-badge&logo=ansible&logoColor=white) ![Tensorflow](https://img.shields.io/badge/TensorFlow-434CB9?style=for-the-badge&logo=tensorflow&logoColor=white) ![ThreeJS](https://img.shields.io/badge/ThreeJs-86368E?style=for-the-badge&logo=three.js&logoColor=white)
 
 <details>
   <summary>More Info</summary>
