@@ -7,7 +7,7 @@
 
 ### Heya! I'm Toby. 👋
 
-- 👾 Postgraduate IT student passionate about DevOps, infrastructure, and automation 
+- 👾 Postgraduate IT engineer passionate about infrastructure and automation 
 - 🌱 Looking to help out at [#hacktoberfest](https://github.com/topics/hacktoberfest)
 
 #### Tinkering With:
