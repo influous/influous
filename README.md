@@ -1,14 +1,13 @@
 <img src="https://github.com/influous/influous/blob/main/header.svg" />
 
 <a href="mailto:influous@mailbox.org"><img src="https://img.shields.io/badge/Mail-black?style=flat&logo=maildotru&labelColor=black" align="left" /></a>
-<a href="https://kook.work"><img src="https://img.shields.io/badge/Website-black?style=flat&logo=metrodeparis&labelColor=black" align="left" /></a>
+<!-- <a href="https://kook.work"><img src="https://img.shields.io/badge/Website-black?style=flat&logo=metrodeparis&labelColor=black" align="left" /></a> -->
 <!-- <a href="https://linkedin.com/in/tobias-weber-1002"><img src="https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&labelColor=black" align="left" /></a> -->
 <br />
 
 ### Heya! I'm Toby. 👋
 
-- 👾 Postgraduate IT engineer passionate about infrastructure and automation 
-- 🌱 Looking to help out at [#hacktoberfest](https://github.com/topics/hacktoberfest)
+- 👾 Passionate about infrastructure and automation 
 
 #### Tinkering With:
 
