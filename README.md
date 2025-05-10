@@ -21,5 +21,5 @@
   <summary>More Info</summary>
   <br />
 <!--     <img align="right" width="325" src="https://github.com/influous/influous/blob/main/devcard.svg" alt="influous' DevCard" /> -->
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=influous&theme=radical&text_color=fff&custom_title=WakaTime+Activity+%287+Days%29" alt="influous' WakaTime activity (past 7 days)"&insight_type=all_time />
+<!--     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=influous&theme=radical&text_color=fff&custom_title=WakaTime+Activity+%287+Days%29" alt="influous' WakaTime activity (past 7 days)"&insight_type=all_time /> -->
 	<img src="https://github-readme-stats.vercel.app/api?username=influous&theme=radical&show_icons=true&text_color=fff&custom_title=influous'+GitHub+Stats" alt="influous' GitHub stats" />
