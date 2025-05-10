@@ -11,7 +11,7 @@
 
 #### Tinkering With:
 
-![Python](https://img.shields.io/badge/Python-434cb9?style=for-the-badge&logo=python&logoColor=white) [![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)] ![JavaScript](https://img.shields.io/badge/javascript-5f43a7?style=for-the-badge&logo=javascript&logoColor=white) ![Bash](https://img.shields.io/badge/bash-783a96?style=for-the-badge&logo=gnubash&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-b8256d?style=for-the-badge&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-86368d?style=for-the-badge&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/helm-9e2e7e?style=for-the-badge&logo=helm&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-C91F62?style=for-the-badge&logo=ansible&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-ab2975?style=for-the-badge&logo=jenkins&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-434cb9?style=for-the-badge&logo=python&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-5f43a7?style=for-the-badge&logo=javascript&logoColor=white) ![Bash](https://img.shields.io/badge/bash-783a96?style=for-the-badge&logo=gnubash&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-b8256d?style=for-the-badge&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-86368d?style=for-the-badge&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/helm-9e2e7e?style=for-the-badge&logo=helm&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-C91F62?style=for-the-badge&logo=ansible&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-ab2975?style=for-the-badge&logo=jenkins&logoColor=white) 
 
 #### Looking Into:
 
@@ -21,5 +21,5 @@
   <summary>More Info</summary>
   <br />
 <!--     <img align="right" width="325" src="https://github.com/influous/influous/blob/main/devcard.svg" alt="influous' DevCard" /> -->
-    <img align="center" width="460" height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=influous&theme=radical&text_color=fff&custom_title=WakaTime+Activity+%287+Days%29" alt="influous' WakaTime activity (past 7 days)"&insight_type=all_time />
-	<img align="center" width="460" src="https://github-readme-stats.vercel.app/api?username=influous&theme=radical&show_icons=true&text_color=fff&custom_title=influous'+GitHub+Stats" alt="influous' GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=influous&theme=radical&text_color=fff&custom_title=WakaTime+Activity+%287+Days%29" alt="influous' WakaTime activity (past 7 days)"&insight_type=all_time />
+	<img src="https://github-readme-stats.vercel.app/api?username=influous&theme=radical&show_icons=true&text_color=fff&custom_title=influous'+GitHub+Stats" alt="influous' GitHub stats" />
